@@ -60,8 +60,6 @@ public class Dasafio1java {
                 System.out.println("Opção invalida! tente outra opção");
             }
         }
-
-
-
     }
 }
+
